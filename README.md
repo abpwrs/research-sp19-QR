@@ -5,5 +5,5 @@
 ## Network Overfitting
 ![](./overfitting.gif)
 
-## What the Network actually learned
+## Network Performance on Validation Data
 ![](./validation.gif)
