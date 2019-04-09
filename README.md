@@ -4,3 +4,6 @@
 
 ## Network Overfitting
 ![](./output.gif)
+
+## What the Network actually learned
+![](./validation.gif)
